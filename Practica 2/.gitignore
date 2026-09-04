@@ -1,0 +1,4 @@
+# Artefactos de compilacion y de serializacion
+*.class
+*.ser
+out/
